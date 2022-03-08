@@ -1,0 +1,25 @@
+---
+Story Script version: "v0.5"
+Story Script version url: https://github.com/lroulh
+typeface family:
+  name: Story Script
+  tags:
+  - sans-serif
+  - handwritten
+  - script
+  - swash
+  - human
+  - angle
+  - glyphs
+  - baseline
+  - decorative
+  repository url: https://gitlab.com/lroulh/Story-Sans
+  tools:
+  - RoboFont
+  - FontLab
+  - MetricsMachine
+  - Prepolator
+  similar fonts:
+  sample text:
+  - en_us: The quick brown fox jumps over the lazy dog
+...
